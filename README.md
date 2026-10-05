@@ -37,7 +37,7 @@ VOID is an ongoing project. Its story, gameplay systems and other elements may e
 
 ## Official Website
 
-https://necronstudios.github.io/Project-VOID/
+https://necronstudios.github.io/NecronStudios/
 
 ---
 
